@@ -10,7 +10,7 @@ export default function ModalBtn() {
   return (
     <>
       <div className='flex justify-between'>
-        <img className="mt-5 ml-5 h-40 " src={IMAGES.myLogo} alt=""></img>
+        <img className="mt-5 w-auto h-20" src={IMAGES.mainLogo} alt=""></img>
 
         <div className =" mt-20 mr-8 lg:invisible ">
           <button id = "square" onClick ={() => {
