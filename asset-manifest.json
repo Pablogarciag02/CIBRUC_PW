@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.a0013f89.css",
-    "main.js": "/static/js/main.be6dbfac.js",
-    "static/media/mountainStart.jpeg": "/static/media/mountainStart.9ecce33adaafa5d7da1e.jpeg",
-    "static/media/lakeStart.jpeg": "/static/media/lakeStart.742ea44f721a9410a461.jpeg",
-    "static/media/forestStart.jpeg": "/static/media/forestStart.6252778a3cff25bd89de.jpeg",
-    "static/media/oceanStart.jpeg": "/static/media/oceanStart.80ad50c1d2b7219e7396.jpeg",
-    "static/media/waveStart.jpeg": "/static/media/waveStart.80ad50c1d2b7219e7396.jpeg",
-    "static/media/planetStart.jpeg": "/static/media/planetStart.fd2b555f0e583794024c.jpeg",
-    "static/media/ladybugStart.jpeg": "/static/media/ladybugStart.16981ca11f6dd91cd5cc.jpeg",
-    "static/media/Logo.png": "/static/media/Logo.7505dff749590eb34409.png",
-    "static/media/flowerStart.jpeg": "/static/media/flowerStart.405d846e4fd00e51df48.jpeg",
-    "static/media/Image-Logo1.png": "/static/media/Image-Logo1.b42ebb83ca380c4635f5.png",
-    "static/media/Recycle-icon.png": "/static/media/Recycle-icon.de3f3a8daedf55ce3176.png",
-    "index.html": "/index.html",
-    "main.a0013f89.css.map": "/static/css/main.a0013f89.css.map",
-    "main.be6dbfac.js.map": "/static/js/main.be6dbfac.js.map"
+    "main.css": "/CIBRUC_PW/static/css/main.a0013f89.css",
+    "main.js": "/CIBRUC_PW/static/js/main.46cdd96b.js",
+    "static/media/mountainStart.jpeg": "/CIBRUC_PW/static/media/mountainStart.9ecce33adaafa5d7da1e.jpeg",
+    "static/media/lakeStart.jpeg": "/CIBRUC_PW/static/media/lakeStart.742ea44f721a9410a461.jpeg",
+    "static/media/forestStart.jpeg": "/CIBRUC_PW/static/media/forestStart.6252778a3cff25bd89de.jpeg",
+    "static/media/oceanStart.jpeg": "/CIBRUC_PW/static/media/oceanStart.80ad50c1d2b7219e7396.jpeg",
+    "static/media/waveStart.jpeg": "/CIBRUC_PW/static/media/waveStart.80ad50c1d2b7219e7396.jpeg",
+    "static/media/planetStart.jpeg": "/CIBRUC_PW/static/media/planetStart.fd2b555f0e583794024c.jpeg",
+    "static/media/ladybugStart.jpeg": "/CIBRUC_PW/static/media/ladybugStart.16981ca11f6dd91cd5cc.jpeg",
+    "static/media/Logo.png": "/CIBRUC_PW/static/media/Logo.7505dff749590eb34409.png",
+    "static/media/flowerStart.jpeg": "/CIBRUC_PW/static/media/flowerStart.405d846e4fd00e51df48.jpeg",
+    "static/media/Image-Logo1.png": "/CIBRUC_PW/static/media/Image-Logo1.b42ebb83ca380c4635f5.png",
+    "static/media/Recycle-icon.png": "/CIBRUC_PW/static/media/Recycle-icon.de3f3a8daedf55ce3176.png",
+    "index.html": "/CIBRUC_PW/index.html",
+    "main.a0013f89.css.map": "/CIBRUC_PW/static/css/main.a0013f89.css.map",
+    "main.46cdd96b.js.map": "/CIBRUC_PW/static/js/main.46cdd96b.js.map"
   },
   "entrypoints": [
     "static/css/main.a0013f89.css",
-    "static/js/main.be6dbfac.js"
+    "static/js/main.46cdd96b.js"
   ]
 }
