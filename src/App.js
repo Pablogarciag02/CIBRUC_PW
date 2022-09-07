@@ -16,7 +16,7 @@ export default function App() {
   const location = useLocation();
   const currentPath = location.pathname
   return (
-    <Routes>
+    <Routes basename={process.env.PUBLIC_URL}>
       
       <Route path ="/" element = { <Home />}/>
       <Route path ="/QuienesSomos" element = { <Quienessomos />} />
