@@ -12,9 +12,9 @@ export default function App() {
     <Routes>
       
       <Route path ="/CIBRUC_PW" element = { <Home />}/>
-      <Route path ="/QuienesSomos" element = { <Quienessomos />} />
-      <Route path ="/QuieroSER" element = {<QuieroSER />} />
-      <Route path = "/Contacto" element = {<Contacto />} />
+      <Route path ="/CIBRUC_PW/QuienesSomos" element = { <Quienessomos />} />
+      <Route path ="/CIBRUC_PW/QuieroSER" element = {<QuieroSER />} />
+      <Route path = "/CIBRUC_PW/Contacto" element = {<Contacto />} />
     </Routes>
   )
 }
