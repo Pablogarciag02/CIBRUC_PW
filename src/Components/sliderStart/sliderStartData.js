@@ -9,4 +9,4 @@ const SliderIMAGES = {
     wave: require("../Images/waveStart.jpeg")
 }
 
-export default SliderIMAGESs
+export default SliderIMAGES
