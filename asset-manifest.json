@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/CIBRUC_PW/static/css/main.a0013f89.css",
-    "main.js": "/CIBRUC_PW/static/js/main.1b0def5d.js",
+    "main.js": "/CIBRUC_PW/static/js/main.79a87af3.js",
     "static/media/mountainStart.jpeg": "/CIBRUC_PW/static/media/mountainStart.9ecce33adaafa5d7da1e.jpeg",
     "static/media/lakeStart.jpeg": "/CIBRUC_PW/static/media/lakeStart.742ea44f721a9410a461.jpeg",
     "static/media/forestStart.jpeg": "/CIBRUC_PW/static/media/forestStart.6252778a3cff25bd89de.jpeg",
@@ -15,10 +15,10 @@
     "static/media/Recycle-icon.png": "/CIBRUC_PW/static/media/Recycle-icon.de3f3a8daedf55ce3176.png",
     "index.html": "/CIBRUC_PW/index.html",
     "main.a0013f89.css.map": "/CIBRUC_PW/static/css/main.a0013f89.css.map",
-    "main.1b0def5d.js.map": "/CIBRUC_PW/static/js/main.1b0def5d.js.map"
+    "main.79a87af3.js.map": "/CIBRUC_PW/static/js/main.79a87af3.js.map"
   },
   "entrypoints": [
     "static/css/main.a0013f89.css",
-    "static/js/main.1b0def5d.js"
+    "static/js/main.79a87af3.js"
   ]
 }
