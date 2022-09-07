@@ -8,7 +8,8 @@ module.exports = {
       "background":"#F8EDE3",
       "green1": "#BDD2B6",
       "green2": "#A2B29F",
-      "darkgreen":"#798777"
+      "darkgreen":"#798777",
+      "verydarkgreen":"#355438"
     }
   },
   plugins: [],
