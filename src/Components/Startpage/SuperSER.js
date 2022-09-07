@@ -3,7 +3,7 @@ import "./SuperSER.css"
 
 export default function SuperSER() {
   return (
-    <div className="justify-center sm:mx-40 m-10 flex  ">
+    <div className="justify-center sm:mx-40 m-10 mb-80 flex  ">
         
         <div id = "ser" className="p-4 sm:items-center items-start justify-between rounded-lg sm:flex sm:justify-between">
             <div className="mt-2 sm:mx-40">
