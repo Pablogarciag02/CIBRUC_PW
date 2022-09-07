@@ -1,12 +1,10 @@
-/* Backgorund color*/
-body{
-    background-color: #F8EDE3;
-}
+
 
 
 /* This is the stylings for the button that opens the modal */
 #square {
-    border: 1px solid #282726;
+    border: 1px solid #798777;
+    border-radius: 10px;
     height: 40px;
     width: 40px;
     display: block;
@@ -36,7 +34,7 @@ body{
 
 #square:hover {
     transform: rotate(135deg);
-    border: 1px solid #282726;
+    border: 1px solid #798777;
 }
 
 .square:hover #burgerwrap {
@@ -46,7 +44,7 @@ body{
 #square span {
     height: 2px;
     width: 25px;
-    background: #282726;
+    background: #798777;
     display: block;
     margin-bottom: 6px;
     
@@ -61,7 +59,7 @@ body{
     height: 2px;
     width: 25px;
     position: absolute;
-    background: #282726;
+    background: #798777;
     left: -35px;
     
     -webkit-transition: all 500ms cubic-bezier(0.970, 0.000, 0.395, 0.995); 
