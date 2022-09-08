@@ -1,8 +1,10 @@
 import React from 'react'
 import { useState, useEffect } from 'react';
+import Footer from '../Startpage/Footer';
 
 import Header from '../Startpage/Header'
 import ModalBtn from '../Startpage/Phoneview/ModalBtn';
+
 
 export default function QuieroSER() {
   const [isDesktop, setDesktop] = useState(window.innerWidth > 650);
@@ -22,6 +24,7 @@ export default function QuieroSER() {
       ) : (
         <ModalBtn />
       )}
+      <Footer />
 
       
         

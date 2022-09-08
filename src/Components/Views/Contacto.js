@@ -3,6 +3,7 @@ import { useState, useEffect } from "react";
 
 import Header from '../Startpage/Header'
 import ModalBtn from '../Startpage/Phoneview/ModalBtn';
+import Footer from '../Startpage/Footer';
 
 
 export default function Contacto() {
@@ -23,6 +24,7 @@ export default function Contacto() {
       ) : (
         <ModalBtn />
       )}
+      <Footer />
 
       
         

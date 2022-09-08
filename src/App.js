@@ -11,10 +11,10 @@ export default function App() {
   return (
     <Routes>
       
-      <Route path ="/CIBRUC_PW" element = { <Home />}/>
-      <Route path ="/CIBRUC_PW/QuienesSomos" element = { <Quienessomos />} />
+      <Route path ="/" element = { <Home />}/>
+      <Route path ="/QuienesSomos" element = { <Quienessomos />} />
       <Route path ="/CIBRUC_PW/QuieroSER" element = {<QuieroSER />} />
-      <Route path = "/CIBRUC_PW/Contacto" element = {<Contacto />} />
+      <Route path ="/CIBRUC_PW/Contacto" element = {<Contacto />} />
     </Routes>
   )
 }
