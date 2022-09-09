@@ -3,6 +3,9 @@ const IMAGES = {
     recycleIcon: require("./Recycle-icon.png"),
     goBack: require("./Goback.png"),
     mainLogo: require("./Logo.png"),
+    BackgroundStart: require("./BackgroundStart.jpeg"),
+    recycleAbout: require("./reciclajeQuienesSomos.png"),
+    goalsAbout: require("./CibrucGoal.png"),
 
     instagram: require("./003-instagram-1.png"),
     twitter: require("./002-twitter.png"),
