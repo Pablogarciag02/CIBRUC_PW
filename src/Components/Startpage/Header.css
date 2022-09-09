@@ -1,9 +1,9 @@
 
 
-
 /* This is the stylings for the button that opens the modal */
 #square {
-    border: 1px solid #798777;
+    border: 1px solid black;
+    background: #F8EDE3;
     border-radius: 10px;
     height: 40px;
     width: 40px;
@@ -34,7 +34,7 @@
 
 #square:hover {
     transform: rotate(135deg);
-    border: 1px solid #798777;
+    border: 1px solid black;
 }
 
 .square:hover #burgerwrap {
@@ -44,7 +44,7 @@
 #square span {
     height: 2px;
     width: 25px;
-    background: #798777;
+    background: black;
     display: block;
     margin-bottom: 6px;
     
@@ -59,7 +59,7 @@
     height: 2px;
     width: 25px;
     position: absolute;
-    background: #798777;
+    background: black;
     left: -35px;
     
     -webkit-transition: all 500ms cubic-bezier(0.970, 0.000, 0.395, 0.995); 
