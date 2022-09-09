@@ -1,12 +1,17 @@
 import "../../App.css"
+import "../Startpage/StartPage.css"
 import React from "react";
 import { useState, useEffect } from "react";
 
-import HeaderInicio from "../Startpage/HeaderInicio";
+import Header from "../Startpage/Header";
 import ModalBtn from "../Startpage/Phoneview/ModalBtn";
 import Startbody from "../Startpage/Startbody";
+import About from "../Quienes Somos/About";
 import SuperSER from "../Startpage/SuperSER";
+import Blog from "../Startpage/Blog";
+import Contact from "../Contacto/Contact";
 import Footer from "../Startpage/Footer";
+
 
 
 export default function Home() {
@@ -22,14 +27,21 @@ export default function Home() {
   })
   return (
     <>
-      {isDesktop ? (
-        <HeaderInicio />
-      ) : (
-        <ModalBtn />
-      )}
+      <div id="headerStartView">
+        {isDesktop ? (
+          <Header />
+        ) : (
+          <ModalBtn />
+        )}
 
-      <Startbody />
+        <Startbody />
+      </div>
+
+      <About />
       <SuperSER />
+      <Blog />
+      <Contact />
+
       <Footer />
 
     </>
