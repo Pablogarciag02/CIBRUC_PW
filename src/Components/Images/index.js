@@ -4,6 +4,7 @@ const IMAGES = {
     goBack: require("./Goback.png"),
     mainLogo: require("./Logo.png"),
     BackgroundStart: require("./BackgroundStart.jpeg"),
+    NuestraMetaBG: require("./NuestraMeta.jpeg"),
     recycleAbout: require("./reciclajeQuienesSomos.png"),
     goalsAbout: require("./CibrucGoal.png"),
 

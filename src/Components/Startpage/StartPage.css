@@ -6,6 +6,17 @@
     background-repeat: no-repeat;
 }
 
+#nuestraMeta {
+   
+    /* background-image: opacity:(opac0.2), url("../Images/BackgroundStart.jpeg");
+    opacity: 0.4; */
+
+    background: linear-gradient(rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.8)), url("../Images/NuestraMeta.jpeg");
+    background-repeat: no-repeat;
+   
+    
+}
+
 #quienesSomos {
     margin: auto;
     height: 2px;

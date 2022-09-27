@@ -11,6 +11,8 @@ import SuperSER from "../Startpage/SuperSER";
 import Blog from "../Startpage/Blog";
 import Contact from "../Contacto/Contact";
 import Footer from "../Startpage/Footer";
+import NuestraMeta from "../Quienes Somos/NuestraMeta";
+import CumplicionMeta from "../Quienes Somos/CumplicionMeta";
 
 
 
@@ -37,7 +39,8 @@ export default function Home() {
         <Startbody />
       </div>
 
-      <About />
+      <NuestraMeta />
+      <CumplicionMeta />
       <SuperSER />
       <Blog />
       <Contact />

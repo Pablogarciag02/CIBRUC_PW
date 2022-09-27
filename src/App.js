@@ -4,6 +4,7 @@ import Home from "./Components/Views/Home";
 
 import { Routes, Route, Router } from "react-router-dom";
 import Quienessomos from "./Components/Views/Quienessomos";
+import NuestraMeta from "./Components/Quienes Somos/NuestraMeta";
 import QuieroSER from "./Components/Views/QuieroSER";
 import Contacto from "./Components/Views/Contacto";
 
