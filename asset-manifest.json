@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/CIBRUC_PW/static/css/main.6c13c53f.css",
-    "main.js": "/CIBRUC_PW/static/js/main.ea0e951c.js",
+    "main.js": "/CIBRUC_PW/static/js/main.bea86ef4.js",
     "static/media/BackgroundStart.jpeg": "/CIBRUC_PW/static/media/BackgroundStart.608c134764507c87df76.jpeg",
     "static/media/reciclajeQuienesSomos.png": "/CIBRUC_PW/static/media/reciclajeQuienesSomos.3bfc6796476c6cb99ec0.png",
     "static/media/NuestraMeta.jpeg": "/CIBRUC_PW/static/media/NuestraMeta.5c16b694c6d7ae4e4b7b.jpeg",
@@ -19,10 +19,10 @@
     "static/media/Recycle-icon.png": "/CIBRUC_PW/static/media/Recycle-icon.de3f3a8daedf55ce3176.png",
     "index.html": "/CIBRUC_PW/index.html",
     "main.6c13c53f.css.map": "/CIBRUC_PW/static/css/main.6c13c53f.css.map",
-    "main.ea0e951c.js.map": "/CIBRUC_PW/static/js/main.ea0e951c.js.map"
+    "main.bea86ef4.js.map": "/CIBRUC_PW/static/js/main.bea86ef4.js.map"
   },
   "entrypoints": [
     "static/css/main.6c13c53f.css",
-    "static/js/main.ea0e951c.js"
+    "static/js/main.bea86ef4.js"
   ]
 }
