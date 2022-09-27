@@ -6,13 +6,12 @@ import { useState, useEffect } from "react";
 import Header from "../Startpage/Header";
 import ModalBtn from "../Startpage/Phoneview/ModalBtn";
 import Startbody from "../Startpage/Startbody";
-import About from "../Quienes Somos/About";
 import SuperSER from "../Startpage/SuperSER";
 import Blog from "../Startpage/Blog";
 import Contact from "../Contacto/Contact";
 import Footer from "../Startpage/Footer";
-import NuestraMeta from "../Quienes Somos/NuestraMeta";
-import CumplicionMeta from "../Quienes Somos/CumplicionMeta";
+import About from "./About";
+import AboutQueHacemos from "./AboutQueHacemos";
 
 
 
@@ -39,8 +38,12 @@ export default function Home() {
         <Startbody />
       </div>
 
-      <NuestraMeta />
-      <CumplicionMeta />
+      <About />
+
+      <AboutQueHacemos />
+
+      {/* <NuestraMeta />
+      <CumplicionMeta /> */}
       <SuperSER />
       <Blog />
       <Contact />

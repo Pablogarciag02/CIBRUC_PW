@@ -7,7 +7,7 @@ export default function CumplicionMeta() {
         <div className='m-10'>
             <div className='justify-center sm:flex'>
                 <div>
-                    <h1 className='flex items-center mb-2 text-3xl underline sm:mx-40 underline-offset-8'>Como Logramos esa Meta</h1>
+                    <h1 className='flex items-center mb-2 text-3xl sm:underline sm:mx-40 sm:underline-offset-8'>Como Logramos esa Meta</h1>
                     <h1 className='flex items-center text-xl sm:mx-40 sm:text-1xl'>En CIBRUC estamos comprometidos en realizar cambio a traves de...</h1>
                     
                     <div id="listAbout" className='items-start grid-cols-2 sm:grid sm:ml-40'>
