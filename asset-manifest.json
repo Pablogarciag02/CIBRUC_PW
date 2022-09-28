@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/CIBRUC_PW/static/css/main.19297046.css",
-    "main.js": "/CIBRUC_PW/static/js/main.af9fccda.js",
+    "main.js": "/CIBRUC_PW/static/js/main.7deb56cc.js",
     "static/media/BackgroundStart.jpeg": "/CIBRUC_PW/static/media/BackgroundStart.608c134764507c87df76.jpeg",
     "static/media/cuatro.png": "/CIBRUC_PW/static/media/cuatro.8f437d8eeb61ef23e47e.png",
     "static/media/tres.png": "/CIBRUC_PW/static/media/tres.bc137eaaae067552da9e.png",
@@ -23,10 +23,10 @@
     "static/media/Recycle-icon.png": "/CIBRUC_PW/static/media/Recycle-icon.de3f3a8daedf55ce3176.png",
     "index.html": "/CIBRUC_PW/index.html",
     "main.19297046.css.map": "/CIBRUC_PW/static/css/main.19297046.css.map",
-    "main.af9fccda.js.map": "/CIBRUC_PW/static/js/main.af9fccda.js.map"
+    "main.7deb56cc.js.map": "/CIBRUC_PW/static/js/main.7deb56cc.js.map"
   },
   "entrypoints": [
     "static/css/main.19297046.css",
-    "static/js/main.af9fccda.js"
+    "static/js/main.7deb56cc.js"
   ]
 }
