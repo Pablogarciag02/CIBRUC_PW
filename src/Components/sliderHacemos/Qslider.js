@@ -21,7 +21,7 @@ export default function Qslider() {
 
     return (
         <div>
-            <img className="flex mt-10 border w-96 rounded-xl" src={images[currentIndex]} width="600" height="600" />
+            <img className="flex-none mt-10 border w-96 rounded-xl" src={images[currentIndex]} width="600" height="600" />
         </div>
     )
 }
