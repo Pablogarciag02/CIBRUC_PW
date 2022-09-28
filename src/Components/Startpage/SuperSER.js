@@ -1,31 +1,39 @@
 import React from 'react'
 import "./SuperSER.css"
+import IMAGES from '../Images'
 
 export default function SuperSER() {
   return (
-    <div className="justify-center sm:mx-40 m-10 mb-80 flex  ">
+    <div id = "ser" className="flex justify-center my-10 ">
         
-        <div id = "ser" className="p-4 sm:items-center items-start justify-between rounded-lg sm:flex sm:justify-between">
-            <div className="mt-2 sm:mx-40">
-                <h1 className='text-7xl'>SUPER </h1>
-
-                <div className='flex items-center'>
-                    <h1 className='text-5xl font-bold text-verydarkgreen'>S</h1><h1 className='text-xl'>uper</h1>
-                    <h1 className="ml-1 text-xl"> Separador</h1>
+        <div  className="items-start justify-between rounded-lg p-14 sm:p-4 sm:items-center sm:flex sm:justify-between">
+            <div className="mt-2">
+                
+                <div className='flex items-center ml-20'>
+                    <h1 className='font-bold text-8xl text-verydarkgreen'>S</h1><h1 className='text-2xl'>uper</h1>
+                    <h1 className="ml-1 text-2xl"> Separador</h1>
                 </div>
                 
-                <div className='flex items-center '>
-                    <h1 className='text-5xl font-bold items-center text-verydarkgreen'>E</h1> <h1 className='text-xl'>cológico</h1>
-                    <h1 className="ml-1 text-xl"> De</h1>
+                <div className='flex items-center ml-20 '>
+                    <h1 className='items-center font-bold text-8xl text-verydarkgreen'>E</h1> <h1 className='text-2xl'>cológico</h1>
+                    <h1 className="ml-1 text-2xl"> De</h1>
                 </div>
                 
-                <div className='flex items-center'>
-                    <h1 className='text-5xl font-bold items-center text-verydarkgreen'>R</h1><h1 className='text-xl'>esiduos</h1>
+                <div className='flex items-center ml-20'>
+                    <h1 className='items-center font-bold text-8xl text-verydarkgreen'>R</h1><h1 className='text-2xl'>esiduos</h1>
                 </div>
             </div>
 
+            <div className='flex justify-center'>
+                <p id = "superSer" className="flex justify-center w-64 p-4 my-5 text-xl text-left rounded-md sm:m-0 sm:mx-40">Nos Encanta darte la bienvenida por tu iniciativa para convertirte en un Súper Ser y valoramos tu interés para informarte sobre lo que puedes hacer en tu hogar para tener un medioambiente más limpio y sano.</p>
+            </div>
+
             <div className=''>
-                <p id = "superSer" className="flex justify-center w-64 text-left text-xl rounded-md my-5 sm:m-0 sm:mx-40 p-4">Nos Encanta darte la bienvenida por tu iniciativa para convertirte en un Súper Ser y valoramos tu interés para informarte sobre lo que puedes hacer en tu hogar para tener un medioambiente más limpio y sano.</p>
+                <p className='my-4 text-2xl text-center '>Descarga nuestra app para aprender mas!</p>
+                <div className="flex justify-center">
+                    <a href='https://apps.apple.com/es/app/s-e-r-separaci%C3%B3n-de-residuos/id1532991255' alt="AppleAppLogo"><img className="mx-2" src={IMAGES.appStore}></img></a>
+                    <a href='https://play.google.com/store/apps/details?id=com.cibruc.ser' alt="PlaystoreAppLogo"><img className="mx-2" src={IMAGES.playStore}></img></a>
+                </div>
             </div>
 
         </div>
