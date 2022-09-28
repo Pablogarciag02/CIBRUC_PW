@@ -1,10 +1,12 @@
 #headerStartView{
     background: linear-gradient(rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.8)), url("../Images/BackgroundStart.jpeg");
+    width: 100%;
     background-repeat: no-repeat;
 }
 
 #nuestraMeta {
     background: linear-gradient(rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.8)), url("../Images/NuestraMeta.jpeg");
+    width: 100%;
     background-repeat: no-repeat;
    
     
