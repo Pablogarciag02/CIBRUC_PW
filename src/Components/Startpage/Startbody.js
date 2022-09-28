@@ -5,7 +5,7 @@ import "./StartPage.css"
 
 export default function Startbody() {
   return (
-    <div id='startview' className="mx-40 mt-20">
+    <div id='startview' className="mt-20">
         <div className="justify-center pb-40 mx-10 mt-10 sm:mx-40 sm:flex sm:justify-between">
           <div className='mb-20'>
             <h2 className="text-3xl font-medium sm:text-6xl">Creando Ciencia y Conciencia</h2>
