@@ -8,6 +8,7 @@ export default function NuestraMeta() {
   return (
     <div className='mb-10 ' id='nuestraMeta'>
     <div>
+      <span id="quienesSomos"></span>
       <div className=''>
         <motion.h2 className='flex justify-center text-3xl sm:mx-40 sm:text-6xl'
         initial={{x:500}}
@@ -16,7 +17,7 @@ export default function NuestraMeta() {
         viewport={{once:true}}
         
         >Quienes Somos</motion.h2>
-        <span className="flex justify-center" id="quienesSomos"></span>
+        <span className="flex justify-center" ></span>
         <motion.h1 className='flex justify-center text-2xl text-center sm:mx-40 sm:text-3xl'
         initial={{x:-500}}
         whileInView={{x:0}}
