@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/CIBRUC_PW/static/css/main.3246a6d9.css",
-    "main.js": "/CIBRUC_PW/static/js/main.aa5223e0.js",
+    "main.css": "/CIBRUC_PW/static/css/main.19297046.css",
+    "main.js": "/CIBRUC_PW/static/js/main.af9fccda.js",
     "static/media/BackgroundStart.jpeg": "/CIBRUC_PW/static/media/BackgroundStart.608c134764507c87df76.jpeg",
     "static/media/cuatro.png": "/CIBRUC_PW/static/media/cuatro.8f437d8eeb61ef23e47e.png",
     "static/media/tres.png": "/CIBRUC_PW/static/media/tres.bc137eaaae067552da9e.png",
@@ -22,11 +22,11 @@
     "static/media/Image-Logo1.png": "/CIBRUC_PW/static/media/Image-Logo1.b42ebb83ca380c4635f5.png",
     "static/media/Recycle-icon.png": "/CIBRUC_PW/static/media/Recycle-icon.de3f3a8daedf55ce3176.png",
     "index.html": "/CIBRUC_PW/index.html",
-    "main.3246a6d9.css.map": "/CIBRUC_PW/static/css/main.3246a6d9.css.map",
-    "main.aa5223e0.js.map": "/CIBRUC_PW/static/js/main.aa5223e0.js.map"
+    "main.19297046.css.map": "/CIBRUC_PW/static/css/main.19297046.css.map",
+    "main.af9fccda.js.map": "/CIBRUC_PW/static/js/main.af9fccda.js.map"
   },
   "entrypoints": [
-    "static/css/main.3246a6d9.css",
-    "static/js/main.aa5223e0.js"
+    "static/css/main.19297046.css",
+    "static/js/main.af9fccda.js"
   ]
 }
