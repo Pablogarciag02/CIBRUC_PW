@@ -11,7 +11,9 @@ const IMAGES = {
     instagram: require("./003-instagram-1.png"),
     twitter: require("./002-twitter.png"),
     tiktok: require("./004-tik-tok.png"),
-    facebook: require("./006-facebook.png")
+    facebook: require("./006-facebook.png"),
+    playStore: require("./playstore.png"),
+    appStore: require("./appstore.png")
 
 }
 
