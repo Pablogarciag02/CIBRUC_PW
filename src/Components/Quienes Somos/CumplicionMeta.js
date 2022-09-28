@@ -4,11 +4,11 @@ import Qslider from '../sliderHacemos/Qslider'
 
 export default function CumplicionMeta() {
   return (
-    <div className='ml-10'>
-        <div className='ml-10'>
+    <div className='ml-10' >
+        <div className='ml-10' id="queHacemos">
             <div className='justify-center sm:flex'>
                 <div>
-                    <h1 className='flex items-center mb-2 text-6xl xl:ml-40 '>¿Como Logramos esa Meta?</h1>
+                    <h1 className='flex items-center mb-2 text-6xl xl:ml-40 ' >¿Como Logramos esa Meta?</h1>
                     <h1 className='flex items-center text-xl xl:ml-40 sm:text-1xl'>En CIBRUC estamos comprometidos en realizar cambio a traves de...</h1>
                     <div className='border-black xl:ml-40'>
                         <Qslider />

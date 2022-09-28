@@ -13,8 +13,9 @@ export default function Header() {
       <img className="h-40 mt-5 ml-5 "  src={IMAGES.mainLogo}  alt=""></img>
   
       <div className="invisible mr-24 mt-14 lg:visible">
-        <span className = "mr-8 text-xl hover:underline hover:text-darkgreen"><HashLink smooth to="#headerview">Inicio</HashLink></span>
+        {/* <span className = "mr-8 text-xl hover:underline hover:text-darkgreen"><HashLink smooth to="#headerview">Inicio</HashLink></span> */}
         <span className = "mr-8 text-xl hover:underline hover:text-darkgreen"><HashLink smooth to="#quienesSomos">Quienes Somos</HashLink></span>
+        <span className = "mr-8 text-xl hover:underline hover:text-darkgreen"><HashLink smooth to="#queHacemos">¿Qué Hacemos?</HashLink></span>
         <span className = "mr-8 text-xl hover:underline hover:text-darkgreen"><HashLink smooth to="#ser">Quiero Ser un Super SER</HashLink></span>
         <span className = "mr-8 text-xl hover:underline hover:text-darkgreen"><HashLink smooth to="#contacto">Contacto</HashLink></span>
       </div>
