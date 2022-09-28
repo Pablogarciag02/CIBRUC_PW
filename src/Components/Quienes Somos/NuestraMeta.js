@@ -9,7 +9,7 @@ export default function NuestraMeta() {
     <div className='mb-10 ' id='nuestraMeta'>
     <div>
       <div className=''>
-        <motion.h2 className='flex justify-center text-3xl sm:mx-40 sm:text-6xl' id="about"
+        <motion.h2 className='flex justify-center text-3xl sm:mx-40 sm:text-6xl'
         initial={{x:900}}
         whileInView={{x:0}}
         transition={{duration: 1}}
