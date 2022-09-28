@@ -42,9 +42,9 @@ export default function SMNuestraMeta() {
                 transition={{duration: 2}}
                 viewport={{once:true}}
                 
-                className=''>
-                <h1 className='flex items-center mb-2 text-4xl underline sm:mx-40 underline-offset-4'>Nuestra Meta</h1>
-                <h1 className='flex items-center sm:text-xl sm:mx-40'>Educar y profesionalizar a los empleados de empresas que gestionan sus propios residuos, así como de todos los funcionarios municipales, estatales y federales que están relacionados con temas de RSU, compostas provenientes de residuos organicos y energías a partir de las fracciones orgánicas e inorgánias de los RSU.</h1>
+                className='pb-2 mt-10 '>
+                <h1 className='flex items-center mb-2 text-4xl underline md:mx-10 xl:mx-40 underline-offset-4'>Nuestra Meta</h1>
+                <h1 className='flex items-center sm:text-xl md:mx-10 lg:mx-10 xl:mx-40 xl:text-2xl'>Educar y profesionalizar a los empleados de empresas que gestionan sus propios residuos, así como de todos los funcionarios municipales, estatales y federales que están relacionados con temas de RSU, compostas provenientes de residuos organicos y energías a partir de las fracciones orgánicas e inorgánias de los RSU.</h1>
                 </motion.div>
             </div>
         </div>
