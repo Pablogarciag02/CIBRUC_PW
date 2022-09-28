@@ -20,7 +20,7 @@ export default function Slider() {
 
     return (
         <div>
-            <img className="rounded-xl mt-10" src={images[currentIndex]} width="600" height="600" />
+            <img className="mt-10 rounded-xl" src={images[currentIndex]} width="600" height="600" />
         </div>
     )
 }
