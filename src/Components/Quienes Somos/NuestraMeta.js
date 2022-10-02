@@ -24,7 +24,7 @@ export default function NuestraMeta() {
         transition={{duration:1}}
         viewport={{once:true}}
         
-        >Nosotros somos un Centro de Investigacion sobre Biodigestiíon Anaerobia, Residuos Urbanos, Agua y Composta</motion.h1>
+        >Nosotros somos un Centro de Investigación sobre Biodigestíon Anaerobia, Residuos Urbanos, Agua y Composta</motion.h1>
       </div>
     </div>
 
@@ -46,7 +46,7 @@ export default function NuestraMeta() {
           
           className=''>
             <h1 className='flex items-center mb-2 text-4xl underline lg-mx-20 xl:mx-40 underline-offset-4'>Nuestra Meta</h1>
-            <h1 className='flex items-center sm:text-xl lg-mx-20 xl:mx-40'>Educar y profesionalizar a los empleados de empresas que gestionan sus propios residuos, así como de todos los funcionarios municipales, estatales y federales que están relacionados con temas de RSU, compostas provenientes de residuos organicos y energías a partir de las fracciones orgánicas e inorgánias de los RSU.</h1>
+            <h1 className='flex items-center sm:text-xl lg-mx-20 xl:mx-40'>Educar y profesionalizar a los empleados de empresas que gestionan sus propios residuos, así como de todos los funcionarios municipales, estatales y federales que están relacionados con temas de RSU, compostas provenientes de residuos organicos y energías a partir de las fracciones orgánicas e inorgánicas de los RSU.</h1>
           </motion.div>
         </div>
       </div>

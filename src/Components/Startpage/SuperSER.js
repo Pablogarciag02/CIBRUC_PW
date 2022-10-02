@@ -10,7 +10,7 @@ export default function SuperSER() {
             <div className="mt-2">
                 
                 <div className='flex items-center ml-20 md:ml-40'>
-                    <h1 className='font-bold text-8xl text-verydarkgreen'>S</h1><h1 className='text-2xl'>uper</h1>
+                    <h1 className='font-bold text-8xl text-verydarkgreen'>S</h1><h1 className='text-2xl'>úper</h1>
                     <h1 className="ml-1 text-2xl"> Separador</h1>
                 </div>
                 
@@ -25,7 +25,7 @@ export default function SuperSER() {
             </div>
 
             <div className='flex justify-center'>
-                <p id = "superSer" className="flex justify-center w-64 p-4 my-5 text-xl text-left rounded-md sm:m-4 sm:mx-40">Nos Encanta darte la bienvenida por tu iniciativa para convertirte en un Súper Ser y valoramos tu interés para informarte sobre lo que puedes hacer en tu hogar para tener un medioambiente más limpio y sano.</p>
+                <p id = "superSer" className="flex justify-center w-64 p-4 my-5 text-xl text-left rounded-md sm:m-4 sm:mx-40">Nos encanta darte la bienvenida por tu iniciativa para convertirte en un Súper Ser y valoramos tu interés para informarte sobre lo que puedes hacer en tu hogar para tener un medioambiente más limpio y sano.</p>
             </div>
 
             <div className=''>
