@@ -10,10 +10,10 @@ export default function Modal({ closeModal }) {
             <img src={IMAGES.goBack} width="25px" height="25px" alt=""></img>
         </button>
 
-        <div className = "grid rounded-lg justify-items-center mt-14">
-            <span className = "w-1/2 py-4 text-xl text-center rounded-full text-background bg-verydarkgreen"><a href="#quienesSomos"> Quienes Somos</a></span>
-            <span className = "w-1/2 py-4 mt-4 text-xl text-center rounded-full text-background bg-verydarkgreen"><a href="#ser"> Quiero Ser un Super SER</a></span>
-            <span className = "w-1/2 py-4 mt-4 text-xl text-center rounded-full text-background bg-verydarkgreen"><a href="#contacto"> Contacto</a></span>
+        <div className = "grid mb-4 rounded-lg justify-items-center mt-14">
+            <span className = "w-1/2 px-4 py-4 text-xl text-center rounded-full text-background bg-verydarkgreen"><a href="#quienesSomos" onClick ={()=> closeModal(false)}> Quienes Somos</a></span>
+            <span className = "w-1/2 px-4 py-4 mt-4 text-xl text-center rounded-full text-background bg-verydarkgreen"><a href="#ser" onClick ={()=> closeModal(false)}> Quiero Ser un Super SER</a></span>
+            <span className = "w-1/2 px-4 py-4 mt-4 text-xl text-center rounded-full text-background bg-verydarkgreen"><a href="#contacto" onClick ={()=> closeModal(false)}> Contacto</a></span>
         </div> 
 
 
